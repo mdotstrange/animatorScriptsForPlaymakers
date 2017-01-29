@@ -21,3 +21,5 @@ rootEnabledInState- enables root animation for this state only
 setBool- set animator bool(enter bool name in field)
 
 setRandomInt- randomizes animator int using name, min, max you enter
+
+#You can add them all by using the Unity Package file
