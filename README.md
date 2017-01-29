@@ -8,7 +8,7 @@ You add them to animator states by clicking the "Add Behaviour" button like so..
 
 disableRoot- disables root animation
 
-enableRoot- enabled root animation
+enableRoot- enables root animation
 
 flipBool- flips an animator bool(enter bool name in field)
 
@@ -20,6 +20,6 @@ rootEnabledInState- enables root animation for this state only
 
 setBool- set animator bool(enter bool name in field)
 
-setRandomInt- randomizes animator int using name, min, max you enter
+setRandomInt- randomizes animator int using name, min, max that you enter in fields
 
 ###You can add them all by using the Unity Package file
