@@ -1,4 +1,4 @@
-# animatorScriptsForPlaymakers
+# Animator Scripts For Playmakers
 
 A few animator scripts that will be helpful to Playmaker users-
 You add them to animator states by clicking the "Add Behaviour" button like so...
