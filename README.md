@@ -14,7 +14,7 @@ flipBool- flips an animator bool(enter bool name in field)
 
 resetTrigger- resets an animator trigger(enter trigger name in field)
 
-rootDiabledInState- disables root animation for this state only
+rootDisabledInState- disables root animation for this state only
 
 rootEnabledInState- enables root animation for this state only
 
